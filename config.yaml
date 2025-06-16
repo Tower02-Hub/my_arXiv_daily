@@ -9,7 +9,7 @@ max_results: 30
 
 publish_readme: True
 publish_gitpage: True
-publish_rss: False
+publish_rss: True
 publish_wechat: False
 
 # file paths
