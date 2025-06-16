@@ -434,7 +434,7 @@ def demo(**config):
                                             max_results = max_results)
             data_collector.append(data)
             data_collector_web.append(data_web)
-            data_collector_rss.append(rss_data)
+            data_collector_rss.extend(rss_data)
             print("\n")
         logging.info(f"GET daily papers end")
 
