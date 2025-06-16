@@ -39,7 +39,7 @@
 |**2025-06-11**|**Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation**|Wenbo Zhang et.al.|[2506.09990](http://arxiv.org/abs/2506.09990)|null|
 |**2025-06-11**|**SAFE: Multitask Failure Detection for Vision-Language-Action Models**|Qiao Gu et.al.|[2506.09937](http://arxiv.org/abs/2506.09937)|null|
 |**2025-06-11**|**From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models**|Irving Fang et.al.|[2506.09930](http://arxiv.org/abs/2506.09930)|null|
-|**2025-06-11**|**Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints**|Huajian Liu et.al.|[2506.09859](http://arxiv.org/abs/2506.09859)|null|
+|**2025-06-11**|**Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints**|Huajian Liu et.al.|[2506.09859](http://arxiv.org/abs/2506.09859)|**[link](https://github.com/TIB-K330/HALO)**|
 |**2025-06-11**|**Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**|Haochen Liu et.al.|[2506.09800](http://arxiv.org/abs/2506.09800)|null|
 |**2025-06-11**|**CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings**|Mattia Nardon et.al.|[2506.09699](http://arxiv.org/abs/2506.09699)|null|
 |**2025-06-12**|**Understanding the Performance and Power of LLM Inferencing on Edge Accelerators**|Mayank Arya et.al.|[2506.09554](http://arxiv.org/abs/2506.09554)|null|
@@ -1120,6 +1120,7 @@
 |**2025-06-08**|**LLM-Enhanced Rapid-Reflex Async-Reflect Embodied Agent for Real-Time Decision-Making in Dynamically Changing Environments**|Yangqing Zheng et.al.|[2506.07223](http://arxiv.org/abs/2506.07223)|null|
 |**2025-06-13**|**A Soft Robotic Module with Pneumatic Actuation and Enhanced Controllability Using a Shape Memory Alloy Wire**|Mohammadnavid Golchin et.al.|[2506.05741](http://arxiv.org/abs/2506.05741)|null|
 |**2025-06-05**|**NEAT and HyperNEAT based Design for Soft Actuator Controllers**|Hugo Alcaraz-Herrera et.al.|[2506.04698](http://arxiv.org/abs/2506.04698)|null|
+|**2025-06-05**|**Analog dual classifier via a time-modulated neuromorphic metasurface**|M. Mousa et.al.|[2506.04629](http://arxiv.org/abs/2506.04629)|null|
 |**2025-06-05**|**Hierarchical-Task-Aware Multi-modal Mixture of Incremental LoRA Experts for Embodied Continual Learning**|Ziqi Jia et.al.|[2506.04595](http://arxiv.org/abs/2506.04595)|null|
 |**2025-06-05**|**Multimodal Limbless Crawling Soft Robot with a Kirigami Skin**|Jonathan Tirado et.al.|[2506.04547](http://arxiv.org/abs/2506.04547)|null|
 |**2025-06-04**|**Designing morphologies of soft medical devices using cooperative neuro coevolution**|Hugo Alcaraz-Herrera et.al.|[2506.03847](http://arxiv.org/abs/2506.03847)|null|
@@ -1141,6 +1142,35 @@
 |**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078](http://arxiv.org/abs/2505.18078)|null|
 |**2025-05-23**|**HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning**|Chuhao Zhou et.al.|[2505.17645](http://arxiv.org/abs/2505.17645)|null|
 |**2025-05-17**|**MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos**|Hongyi Zhou et.al.|[2505.11868](http://arxiv.org/abs/2505.11868)|null|
+|**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916](http://arxiv.org/abs/2504.16916)|null|
+|**2025-04-18**|**Coordinating Spinal and Limb Dynamics for Enhanced Sprawling Robot Mobility**|Merve Atasever et.al.|[2504.14103](http://arxiv.org/abs/2504.14103)|null|
+|**2025-03-31**|**Mechanical Intelligence in Propulsion via Flexible Caudal Fins**|Sushrut Kumar et.al.|[2503.23652](http://arxiv.org/abs/2503.23652)|null|
+|**2025-02-10**|**CS-SHAP: Extending SHAP to Cyclic-Spectral Domain for Better Interpretability of Intelligent Fault Diagnosis**|Qian Chen et.al.|[2502.06424](http://arxiv.org/abs/2502.06424)|null|
+|**2025-01-02**|**Kiri-Spoon: A Kirigami Utensil for Robot-Assisted Feeding**|Maya Keely et.al.|[2501.01323](http://arxiv.org/abs/2501.01323)|**[link](https://github.com/vt-collab/kiri-spoon)**|
+|**2024-12-03**|**Bridging Hard and Soft: Mechanical Metamaterials Enable Rigid Torque Transmission in Soft Robots**|Molly Carton et.al.|[2412.02650](http://arxiv.org/abs/2412.02650)|null|
+|**2024-09-27**|**AquaMILR+: Design of an untethered limbless robot for complex aquatic terrain navigation**|Matthew Fernandez et.al.|[2409.18383](http://arxiv.org/abs/2409.18383)|null|
+|**2024-09-19**|**A Neural Network-based Framework for Fast and Smooth Posture Reconstruction of a Soft Continuum Arm**|Tixian Wang et.al.|[2409.12443](http://arxiv.org/abs/2409.12443)|null|
+|**2025-02-03**|**Multi-robot connective collaboration toward collective obstacle field traversal**|Haodi Hu et.al.|[2409.11709](http://arxiv.org/abs/2409.11709)|null|
+|**2024-10-26**|**Persistent pseudopod splitting is an effective chemotaxis strategy in shallow gradients**|Albert Alonso et.al.|[2409.09342](http://arxiv.org/abs/2409.09342)|**[link](https://github.com/Endres-group/psxc-research)**|
+|**2024-08-05**|**Minimal actuation and control of a soft hydrogel swimmer from flutter instability**|Ariel Surya Boiardi et.al.|[2408.02560](http://arxiv.org/abs/2408.02560)|null|
+|**2025-05-12**|**Embodying Control in Soft Multistable Robots from Morphofunctional Co-design**|Juan C. Osorio et.al.|[2407.08111](http://arxiv.org/abs/2407.08111)|null|
+|**2024-09-27**|**AquaMILR: Mechanical intelligence simplifies control of undulatory robots in cluttered fluid environments**|Tianyu Wang et.al.|[2407.01733](http://arxiv.org/abs/2407.01733)|null|
+|**2024-07-01**|**Evolutionary Morphology Towards Overconstrained Locomotion via Large-Scale, Multi-Terrain Deep Reinforcement Learning**|Yenan Chen et.al.|[2407.01050](http://arxiv.org/abs/2407.01050)|null|
+|**2024-05-26**|**Intelligence as Computation**|Oliver Brock et.al.|[2405.16604](http://arxiv.org/abs/2405.16604)|null|
+|**2024-10-19**|**MindArm: Mechanized Intelligent Non-Invasive Neuro-Driven Prosthetic Arm System**|Maha Nawaz et.al.|[2403.19992](http://arxiv.org/abs/2403.19992)|null|
+|**2024-04-03**|**Study of Workload Interference with Intelligent Routing on Dragonfly**|Yao Kang et.al.|[2403.16288](http://arxiv.org/abs/2403.16288)|null|
+|**2023-10-27**|**Development and Characteristics of a Highly Biomimetic Robotic Shoulder Through Bionics-Inspired Optimization**|Haosen Yang et.al.|[2310.18283](http://arxiv.org/abs/2310.18283)|null|
+|**2023-09-24**|**Anisotropic body compliance facilitates robotic sidewinding in complex environments**|Velin Kojouharov et.al.|[2309.13532](http://arxiv.org/abs/2309.13532)|null|
+|**2024-05-09**|**Mechanical intelligence via fully reconfigurable elastic neuromorphic metasurfaces**|M. Moghaddaszadeh et.al.|[2308.04002](http://arxiv.org/abs/2308.04002)|null|
+|**2023-05-30**|**Uncovering multifunctional mechano-intelligence in and through phononic metastructures harnessing physical reservoir computing**|Yuning Zhang et.al.|[2305.19354](http://arxiv.org/abs/2305.19354)|null|
+|**2024-02-01**|**Mechanical Intelligence Simplifies Control in Terrestrial Limbless Locomotion**|Tianyu Wang et.al.|[2304.08652](http://arxiv.org/abs/2304.08652)|null|
+|**2023-01-31**|**Neuromechanical Autoencoders: Learning to Couple Elastic and Neural Network Nonlinearity**|Deniz Oktay et.al.|[2302.00032](http://arxiv.org/abs/2302.00032)|null|
+|**2022-12-10**|**Aerobat, A Bioinspired Drone to Test High-DOF Actuation and Embodied Aerial Locomotion**|Alireza Ramezani et.al.|[2212.05361](http://arxiv.org/abs/2212.05361)|null|
+|**2022-09-20**|**A Vision Transformer-Based Approach to Bearing Fault Classification via Vibration Signals**|Abid Hasan Zim et.al.|[2208.07070](http://arxiv.org/abs/2208.07070)|null|
+|**2022-04-29**|**Power to the springs: Passive elements are sufficient to drive push-off in human walking**|Alexandra Buchmann et.al.|[2205.00871](http://arxiv.org/abs/2205.00871)|null|
+|**2022-03-12**|**Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment**|Shivani Kamtikar et.al.|[2202.05200](http://arxiv.org/abs/2202.05200)|null|
+|**2022-02-09**|**Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer**|Charles Schaff et.al.|[2202.04575](http://arxiv.org/abs/2202.04575)|null|
+|**2022-01-15**|**IBAC: An Intelligent Dynamic Bandwidth Channel Access Avoiding Outside Warning Range Problem**|Raja Karmakar et.al.|[2201.05727](http://arxiv.org/abs/2201.05727)|null|
 
 <p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
