@@ -21,7 +21,7 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-xml_rss_path: './docs/rss.xml'
+xml_rss_path: './pages/rss.xml'
 
 # keywords to search
 keywords:
