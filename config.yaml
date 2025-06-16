@@ -44,17 +44,17 @@ keywords:
     #     filters: ["Prompt Tuning", "Prompt Learning", "Prompt", "Prompts"]
     # "Causal Learning":
     #     filters: ["Causal Inference", "Causal model", "Causal Discovery", "Causal reasoning"]
+    # "DA & DG":
+    #     filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
+    #               "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
+    # "VLM":
+    #     filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
 
     # --------- My Keywords ---------
     "Soft Robotics":
-        filters: ["Soft Robotics", "Soft continuum arm"]
+        filters: ["Soft continuum arm", "Mechanical Intelligence"]
     "Robotics":
         filters: ["Embodied Agent", "Robot Manipulation", "Robotic Manipulation", "Robot Navigation", 
             "Robot Grasp", "Grasp", "Robot Learning", "Vision-Language-Action Model", "Vision Language Action Model", "Imitation Learning"]
-    "DA & DG":
-        filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
-                  "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
-    "VLM":
-        filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
     
         
