@@ -390,7 +390,7 @@ def generate_rss(data_collector_web, output_file="rss.xml"):
     ET.SubElement(channel, "link").text = "https://your-github-repo.com"
     ET.SubElement(channel, "description").text = "Daily CV papers from ArXiv"
     ET.SubElement(channel, "language").text = "en-us"
-    ET.SubElement(channel, "lastBuildDate").text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
+    ET.SubElement(channel, "lastBuildDate").text = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
     # Process each topic and paper
     for topic_dict in data_collector_web:
@@ -409,10 +409,10 @@ def generate_rss(data_collector_web, output_file="rss.xml"):
 
                 # Format date for RSS
                 try:
-                    date_obj = datetime.strptime(date_str, "%Y.%m.%d")
+                    date_obj = datetime.datetime.strptime(date_str, "%Y.%m.%d")
                     pub_date = date_obj.strftime("%a, %d %b %Y %H:%M:%S GMT")
                 except:
-                    pub_date = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
+                    pub_date = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
                 # Create the item
                 item = ET.SubElement(channel, "item")
