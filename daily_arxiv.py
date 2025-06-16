@@ -390,7 +390,7 @@ def generate_rss(rss_data, output_file="rss.xml"):
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = "CV ArXiv Daily"
-    ET.SubElement(channel, "link").text = "https://your-github-repo.com"
+    ET.SubElement(channel, "link").text = "https://tower02-hub.github.io/my_arXiv_daily/"
     ET.SubElement(channel, "description").text = "Daily CV papers from ArXiv"
     ET.SubElement(channel, "language").text = "en-us"
     ET.SubElement(channel, "lastBuildDate").text = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")

@@ -47,7 +47,7 @@ keywords:
 
     # --------- My Keywords ---------
     "Soft Robotics":
-        filters: ["Soft Robotics", "Soft continuum arm", "Embodied intelligent", "Embodied intelligence"]
+        filters: ["Soft Robotics", "Soft continuum arm"]
     "Robotics":
         filters: ["Embodied Agent", "Robot Manipulation", "Robotic Manipulation", "Robot Navigation", 
             "Robot Grasp", "Grasp", "Robot Learning", "Vision-Language-Action Model", "Vision Language Action Model", "Imitation Learning"]
