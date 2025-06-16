@@ -381,6 +381,7 @@ def generate_rss(data_collector_web, output_file="rss.xml"):
     }
     """
     # Create the XML structure
+    print("Begin RSS feed curation.")
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
 
@@ -424,6 +425,7 @@ def generate_rss(data_collector_web, output_file="rss.xml"):
                 ET.SubElement(item, "description").text = description
 
     # Write to file
+    print(f"Attempting to generate and saved RSS feed to {output_file}")
     tree = ET.ElementTree(rss)
     tree.write(output_file, encoding="utf-8", xml_declaration=True)
     print(f"RSS feed generated and saved to {output_file}")
