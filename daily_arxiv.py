@@ -96,6 +96,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output 
     content = dict() 
     content_to_web = dict()
+    rss_data = []
+
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
@@ -148,6 +150,16 @@ def get_daily_papers(topic,query="slam", max_results=2):
                        update_time,paper_title,paper_first_author,paper_key,paper_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url)
+                
+            # Add to RSS data (structured format)
+            rss_data.append({
+                'topic': topic,
+                'title': paper_title,
+                'authors': paper_first_author,
+                'paper_url': paper_url,
+                'code_url': repo_url,
+                'date': update_time.strftime("%Y.%m.%d")
+            })
 
             # TODO: select useful comments
             comments = None
@@ -161,7 +173,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
     data = {topic:content}
     data_web = {topic:content_to_web}
-    return data,data_web 
+    return data,data_web, rss_data
 
 def update_paper_links(filename):
     '''
@@ -370,62 +382,30 @@ def json_to_md(filename,md_filename,
                 
     logging.info(f"{task} finished")        
 
-def generate_rss(data_collector_web, output_file="rss.xml"):
+def generate_rss(rss_data, output_file="rss.xml"):
     """
-    Generate an RSS XML file from data_collector_web.
-    Each entry in data_collector_web is a dict like:
-    {
-        "CV": {
-            "2108.09112": "- 2023.10.05, **Paper Title**, John et al., Paper: [https://arxiv.org/abs/2310.0001](https://arxiv.org/abs/2310.0001), Code: **[https://github.com/example/repo](https://github.com/example/repo)**"
-        }
-    }
+    Generate an RSS XML file from `rss_data` (structured list of papers).
     """
-    # Create the XML structure
     print("Begin RSS feed curation.")
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
-
-    # Add basic channel info
     ET.SubElement(channel, "title").text = "CV ArXiv Daily"
     ET.SubElement(channel, "link").text = "https://your-github-repo.com"
     ET.SubElement(channel, "description").text = "Daily CV papers from ArXiv"
     ET.SubElement(channel, "language").text = "en-us"
     ET.SubElement(channel, "lastBuildDate").text = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
-    # Process each topic and paper
-    for topic_dict in data_collector_web:
-        for topic, papers in topic_dict.items():
-            for paper_id, entry in papers.items():
-                # Parse the entry string
-                parts = entry.strip().split(", ")
-                date_str = parts[0].replace("-", ".")  # "2023.10.05"
-                title = parts[1].replace("**", "")  # "Paper Title"
-                authors = parts[2].replace("et al.", "")  # "John"
-                paper_url = parts[3].split("](")[1].rstrip(")")  # "https://arxiv.org/abs/2310.0001"
-                code_url = None
-                if len(parts) > 4:
-                    code_part = parts[4].split("](")[1].rstrip(")")
-                    code_url = code_part if code_part.startswith("http") else None
+    for entry in rss_data:
+        item = ET.SubElement(channel, "item")
+        ET.SubElement(item, "title").text = entry['title']
+        ET.SubElement(item, "link").text = entry['paper_url']
+        ET.SubElement(item, "pubDate").text = f"{entry['date']} 00:00:00 GMT"
+        description = f"{entry['authors']} et al. | Paper: <a href='{entry['paper_url']}'>{entry['paper_url']}</a>"
+        if entry['code_url']:
+            description += f" | Code: <a href='{entry['code_url']}'>{entry['code_url']}</a>"
+        ET.SubElement(item, "description").text = description
 
-                # Format date for RSS
-                try:
-                    date_obj = datetime.datetime.strptime(date_str, "%Y.%m.%d")
-                    pub_date = date_obj.strftime("%a, %d %b %Y %H:%M:%S GMT")
-                except:
-                    pub_date = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
-
-                # Create the item
-                item = ET.SubElement(channel, "item")
-                ET.SubElement(item, "title").text = title
-                ET.SubElement(item, "link").text = paper_url
-                ET.SubElement(item, "pubDate").text = pub_date
-                description = f"{authors} et al. | Paper: <a href='{paper_url}'>{paper_url}</a>"
-                if code_url:
-                    description += f" | Code: <a href='{code_url}'>{code_url}</a>"
-                ET.SubElement(item, "description").text = description
-
-    # Write to file
-    print(f"Attempting to generate and saved RSS feed to {output_file}")
+    print(f"Attempting to generate and save RSS feed to {output_file}")
     tree = ET.ElementTree(rss)
     tree.write(output_file, encoding="utf-8", xml_declaration=True)
     print(f"RSS feed generated and saved to {output_file}")
@@ -434,6 +414,7 @@ def demo(**config):
     # TODO: use config
     data_collector = []
     data_collector_web= []
+    data_collector_rss = []
     
     keywords = config['kv']
     max_results = config['max_results']
@@ -449,10 +430,11 @@ def demo(**config):
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
+            data, data_web, rss_data = get_daily_papers(topic, query = keyword,
                                             max_results = max_results)
             data_collector.append(data)
             data_collector_web.append(data_web)
+            data_collector_rss.append(rss_data)
             print("\n")
         logging.info(f"GET daily papers end")
 
@@ -496,8 +478,8 @@ def demo(**config):
             to_web=False, use_title= False, show_badge = show_badge) 
     
     if publish_rss:
-        xml_rss_path = config['xml_rss_path']  
-        generate_rss(data_collector_web, output_file=xml_rss_path)
+        xml_rss_path = config['xml_rss_path']
+        generate_rss(data_collector_rss, output_file=xml_rss_path)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
