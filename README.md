@@ -10,6 +10,7 @@
     <li><a href=#prompt>Prompt</a></li>
     <li><a href=#causal-learning>Causal Learning</a></li>
     <li><a href=#adversarial>Adversarial</a></li>
+    <li><a href=#soft-robotics>Soft Robotics</a></li>
   </ol>
 </details>
 
@@ -17,6 +18,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies**|Nadun Ranawaka Arachchige et.al.|[2506.11948](http://arxiv.org/abs/2506.11948)|null|
+|**2025-06-13**|**mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity**|Elvis Nava et.al.|[2506.11916](http://arxiv.org/abs/2506.11916)|null|
+|**2025-06-13**|**ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**|Zilin Si et.al.|[2506.11775](http://arxiv.org/abs/2506.11775)|null|
+|**2025-06-13**|**Control Architecture and Design for a Multi-robotic Visual Servoing System in Automated Manufacturing Environment**|Rongfei Li et.al.|[2506.11387](http://arxiv.org/abs/2506.11387)|null|
+|**2025-06-12**|**Influence Functions for Data Attribution in Linear System Identification and LQR Control**|Jiachen Li et.al.|[2506.11293](http://arxiv.org/abs/2506.11293)|null|
+|**2025-06-12**|**Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation**|Shizhe Chen et.al.|[2506.11261](http://arxiv.org/abs/2506.11261)|null|
 |**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Justin Kerr et.al.|[2506.10968](http://arxiv.org/abs/2506.10968)|null|
 |**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Ning Gao et.al.|[2506.10966](http://arxiv.org/abs/2506.10966)|null|
 |**2025-06-12**|**Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material**|Guanjin Wang et.al.|[2506.10875](http://arxiv.org/abs/2506.10875)|null|
@@ -258,6 +265,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
+|**2025-06-13**|**SIMSHIFT: A Benchmark for Adapting Neural Surrogates to Distribution Shifts**|Paul Setinek et.al.|[2506.12007](http://arxiv.org/abs/2506.12007)|null|
+|**2025-06-13**|**crossMoDA Challenge: Evolution of Cross-Modality Domain Adaptation Techniques for Vestibular Schwannoma and Cochlea Segmentation from 2021 to 2023**|Navodini Wijethilake et.al.|[2506.12006](http://arxiv.org/abs/2506.12006)|null|
+|**2025-06-13**|**Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation**|Tung-Long Vuong et.al.|[2506.11493](http://arxiv.org/abs/2506.11493)|null|
+|**2025-06-12**|**MUDAS: Mote-scale Unsupervised Domain Adaptation in Multi-label Sound Classification**|Jihoon Yun et.al.|[2506.11331](http://arxiv.org/abs/2506.11331)|null|
+|**2025-06-12**|**Teaching in adverse scenes: a statistically feedback-driven threshold and mask adjustment teacher-student framework for object detection in UAV images under adverse scenes**|Hongyu Chen et.al.|[2506.11175](http://arxiv.org/abs/2506.11175)|null|
 |**2025-06-12**|**BioClinical ModernBERT: A State-of-the-Art Long-Context Encoder for Biomedical and Clinical NLP**|Thomas Sounack et.al.|[2506.10896](http://arxiv.org/abs/2506.10896)|null|
 |**2025-06-12**|**Evaluating Large Language Models on Non-Code Software Engineering Tasks**|Fabian C. Peña et.al.|[2506.10833](http://arxiv.org/abs/2506.10833)|null|
 |**2025-06-12**|**ConStyX: Content Style Augmentation for Generalizable Medical Image Segmentation**|Xi Chen et.al.|[2506.10675](http://arxiv.org/abs/2506.10675)|null|
@@ -422,6 +435,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
+|**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
+|**2025-06-13**|**Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**|Xintong Wang et.al.|[2506.11820](http://arxiv.org/abs/2506.11820)|null|
+|**2025-06-13**|**MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space**|Anshul Singh et.al.|[2506.11684](http://arxiv.org/abs/2506.11684)|null|
+|**2025-06-13**|**VLM@school -- Evaluation of AI image understanding on German middle school knowledge**|René Peinl et.al.|[2506.11604](http://arxiv.org/abs/2506.11604)|null|
+|**2025-06-13**|**EasyARC: Evaluating Vision Language Models on True Visual Reasoning**|Mert Unsal et.al.|[2506.11595](http://arxiv.org/abs/2506.11595)|null|
+|**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[2506.11526](http://arxiv.org/abs/2506.11526)|null|
+|**2025-06-13**|**Manager: Aggregating Insights from Unimodal Experts in Two-Tower VLMs and MLLMs**|Xiao Xu et.al.|[2506.11515](http://arxiv.org/abs/2506.11515)|null|
+|**2025-06-13**|**Taming Stable Diffusion for Computed Tomography Blind Super-Resolution**|Chunlei Li et.al.|[2506.11496](http://arxiv.org/abs/2506.11496)|null|
+|**2025-06-13**|**On the Natural Robustness of Vision-Language Models Against Visual Perception Attacks in Autonomous Driving**|Pedram MohajerAnsari et.al.|[2506.11472](http://arxiv.org/abs/2506.11472)|null|
+|**2025-06-12**|**Poutine: Vision-Language-Trajectory Pre-Training and Reinforcement Learning Post-Training Enable Robust End-to-End Autonomous Driving**|Luke Rowe et.al.|[2506.11234](http://arxiv.org/abs/2506.11234)|null|
+|**2025-06-11**|**Test-Time-Scaling for Zero-Shot Diagnosis with Visual-Language Reasoning**|Ji Young Byun et.al.|[2506.11166](http://arxiv.org/abs/2506.11166)|null|
+|**2025-06-11**|**VIBE: Can a VLM Read the Room?**|Tania Chakraborty et.al.|[2506.11162](http://arxiv.org/abs/2506.11162)|null|
 |**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Guimeng Liu et.al.|[2506.10895](http://arxiv.org/abs/2506.10895)|null|
 |**2025-06-13**|**RationalVLA: A Rational Vision-Language-Action Model with Dual System**|Wenxuan Song et.al.|[2506.10826](http://arxiv.org/abs/2506.10826)|null|
 |**2025-06-12**|**Grounded Vision-Language Navigation for UAVs with Open-Vocabulary Goal Understanding**|Yuhang Zhang et.al.|[2506.10756](http://arxiv.org/abs/2506.10756)|null|
@@ -1078,6 +1104,43 @@
 |**2025-05-15**|**ROIsGAN: A Region Guided Generative Adversarial Framework for Murine Hippocampal Subregion Segmentation**|Sayed Mehedi Azim et.al.|[2505.10687](http://arxiv.org/abs/2505.10687)|**[link](https://github.com/mehediazim/roisgan)**|
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
 |**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
+
+<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+
+## Soft Robotics
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-06-13**|**Hydrodynamics of chiral nematics in a channel and sudden contraction geometry**|Isreal Morawo et.al.|[2506.11933](http://arxiv.org/abs/2506.11933)|null|
+|**2025-06-13**|**Universal Scaling Laws for Deep Indentation Beyond the Hertzian Regime**|Tong Mu et.al.|[2506.11461](http://arxiv.org/abs/2506.11461)|null|
+|**2025-06-08**|**Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions**|Kun Zhang et.al.|[2506.11111](http://arxiv.org/abs/2506.11111)|null|
+|**2025-06-12**|**EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence**|Wang Xinjie et.al.|[2506.10600](http://arxiv.org/abs/2506.10600)|null|
+|**2025-06-11**|**EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models**|Yantai Yang et.al.|[2506.10100](http://arxiv.org/abs/2506.10100)|null|
+|**2025-06-11**|**Adaptive event-triggered robust tracking control of soft robots**|Renjie Ma et.al.|[2506.09523](http://arxiv.org/abs/2506.09523)|null|
+|**2025-06-08**|**LLM-Enhanced Rapid-Reflex Async-Reflect Embodied Agent for Real-Time Decision-Making in Dynamically Changing Environments**|Yangqing Zheng et.al.|[2506.07223](http://arxiv.org/abs/2506.07223)|null|
+|**2025-06-13**|**A Soft Robotic Module with Pneumatic Actuation and Enhanced Controllability Using a Shape Memory Alloy Wire**|Mohammadnavid Golchin et.al.|[2506.05741](http://arxiv.org/abs/2506.05741)|null|
+|**2025-06-05**|**NEAT and HyperNEAT based Design for Soft Actuator Controllers**|Hugo Alcaraz-Herrera et.al.|[2506.04698](http://arxiv.org/abs/2506.04698)|null|
+|**2025-06-05**|**Hierarchical-Task-Aware Multi-modal Mixture of Incremental LoRA Experts for Embodied Continual Learning**|Ziqi Jia et.al.|[2506.04595](http://arxiv.org/abs/2506.04595)|null|
+|**2025-06-05**|**Multimodal Limbless Crawling Soft Robot with a Kirigami Skin**|Jonathan Tirado et.al.|[2506.04547](http://arxiv.org/abs/2506.04547)|null|
+|**2025-06-04**|**Designing morphologies of soft medical devices using cooperative neuro coevolution**|Hugo Alcaraz-Herrera et.al.|[2506.03847](http://arxiv.org/abs/2506.03847)|null|
+|**2025-06-03**|**Design of Trimmed Helicoid Soft-Rigid Hybrid Robots**|Zach J. Patterson et.al.|[2506.03380](http://arxiv.org/abs/2506.03380)|**[link](https://github.com/zpatty/sr_helix)**|
+|**2025-05-31**|**Multi-Objective Neural Network Assisted Design Optimization of Soft Fin-Ray Grippers for Enhanced Grasping Performance**|Ali Ghanizadeh et.al.|[2506.00494](http://arxiv.org/abs/2506.00494)|null|
+|**2025-05-31**|**LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks**|Yi Yang et.al.|[2506.00411](http://arxiv.org/abs/2506.00411)|null|
+|**2025-05-31**|**Position: Olfaction Standardization is Essential for the Advancement of Embodied Artificial Intelligence**|Kordel K. France et.al.|[2506.00398](http://arxiv.org/abs/2506.00398)|null|
+|**2025-05-29**|**Human sensory-musculoskeletal modeling and control of whole-body movements**|Chenhui Zuo et.al.|[2506.00071](http://arxiv.org/abs/2506.00071)|null|
+|**2025-05-30**|**MagicGripper: A Multimodal Sensor-Integrated Gripper for Contact-Rich Robotic Manipulation**|Wen Fan et.al.|[2505.24382](http://arxiv.org/abs/2505.24382)|null|
+|**2025-05-28**|**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**|Rui Li et.al.|[2505.22634](http://arxiv.org/abs/2505.22634)|null|
+|**2025-05-28**|**Soft Electrothermal Meta-Actuator for Robust Multifunctional Control**|Hanseong Jo et.al.|[2505.21992](http://arxiv.org/abs/2505.21992)|null|
+|**2025-05-27**|**Viscoelasticity of biomimetic scale beams from trapped complex fluids**|Pranta Rahman Sarkar et.al.|[2505.21760](http://arxiv.org/abs/2505.21760)|null|
+|**2025-05-27**|**MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**|Kerui Ren et.al.|[2505.21483](http://arxiv.org/abs/2505.21483)|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
+|**2025-05-26**|**RFTF: Reinforcement Fine-tuning for Embodied Agents with Temporal Feedback**|Junyang Shu et.al.|[2505.19767](http://arxiv.org/abs/2505.19767)|null|
+|**2025-05-26**|**DiffE2E: Rethinking End-to-End Driving with a Hybrid Action Diffusion and Supervised Policy**|Rui Zhao et.al.|[2505.19516](http://arxiv.org/abs/2505.19516)|null|
+|**2025-05-23**|**BEDI: A Comprehensive Benchmark for Evaluating Embodied Agents on UAVs**|Mingning Guo et.al.|[2505.18229](http://arxiv.org/abs/2505.18229)|**[link](https://github.com/lostwolves/bedi)**|
+|**2025-05-23**|**Rotational Multi-material 3D Printing of Soft Robotic Matter with Asymmetrical Embedded Pneumatics**|Jackson K. Wilt et.al.|[2505.18095](http://arxiv.org/abs/2505.18095)|null|
+|**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078](http://arxiv.org/abs/2505.18078)|null|
+|**2025-05-23**|**HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning**|Chuhao Zhou et.al.|[2505.17645](http://arxiv.org/abs/2505.17645)|null|
+|**2025-05-17**|**MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos**|Hongyi Zhou et.al.|[2505.11868](http://arxiv.org/abs/2505.11868)|null|
 
 <p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
 
