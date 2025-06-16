@@ -9,6 +9,7 @@ max_results: 30
 
 publish_readme: True
 publish_gitpage: True
+publish_rss: False
 publish_wechat: False
 
 # file paths
@@ -19,6 +20,8 @@ json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
+
+xml_rss_path: './rss.xml'
 
 # keywords to search
 keywords:
