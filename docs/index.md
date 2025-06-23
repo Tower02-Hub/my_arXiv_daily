@@ -9,6 +9,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
+|**2025-06-20**|**Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration**|Yuntao Ma et.al.|[2506.16986](http://arxiv.org/abs/2506.16986)|null|
+|**2025-06-20**|**Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections**|Xiaomeng Xu et.al.|[2506.16685](http://arxiv.org/abs/2506.16685)|null|
+|**2025-06-19**|**CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity**|Guang Yin et.al.|[2506.16652](http://arxiv.org/abs/2506.16652)|null|
+|**2025-06-19**|**History-Augmented Vision-Language Models for Frontier-Based Zero-Shot Object Navigation**|Mobin Habibpour et.al.|[2506.16623](http://arxiv.org/abs/2506.16623)|null|
+|**2025-06-19**|**Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control**|Yuxin Chen et.al.|[2506.16565](http://arxiv.org/abs/2506.16565)|null|
+|**2025-06-19**|**An Optimization-Augmented Control Framework for Single and Coordinated Multi-Arm Robotic Manipulation**|Melih Özcan et.al.|[2506.16555](http://arxiv.org/abs/2506.16555)|null|
+|**2025-06-19**|**Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining**|Yaru Niu et.al.|[2506.16475](http://arxiv.org/abs/2506.16475)|null|
+|**2025-06-19**|**IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks**|Xiaoya Lu et.al.|[2506.16402](http://arxiv.org/abs/2506.16402)|null|
+|**2025-06-19**|**GoalLadder: Incremental Goal Discovery with Vision-Language Models**|Alexey Zakharov et.al.|[2506.16396](http://arxiv.org/abs/2506.16396)|null|
+|**2025-06-19**|**CapsDT: Diffusion-Transformer for Capsule Robot Manipulation**|Xiting He et.al.|[2506.16263](http://arxiv.org/abs/2506.16263)|null|
+|**2025-06-19**|**ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models**|Puhao Li et.al.|[2506.16211](http://arxiv.org/abs/2506.16211)|null|
+|**2025-06-19**|**FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation**|Sen Wang et.al.|[2506.16201](http://arxiv.org/abs/2506.16201)|null|
+|**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Boyu Li et.al.|[2506.16012](http://arxiv.org/abs/2506.16012)|null|
+|**2025-06-19**|**Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation**|Connor Malone et.al.|[2506.15988](http://arxiv.org/abs/2506.15988)|null|
+|**2025-06-19**|**ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation**|Liang Heng et.al.|[2506.15953](http://arxiv.org/abs/2506.15953)|null|
+|**2025-06-18**|**Learning from Planned Data to Improve Robotic Pick-and-Place Planning Efficiency**|Liang Qin et.al.|[2506.15920](http://arxiv.org/abs/2506.15920)|null|
+|**2025-06-18**|**Improving Robotic Manipulation: Techniques for Object Pose Estimation, Accommodating Positional Uncertainty, and Disassembly Tasks from Examples**|Viral Rasik Galaiya et.al.|[2506.15865](http://arxiv.org/abs/2506.15865)|null|
 |**2025-06-18**|**Vision in Action: Learning Active Perception from Human Demonstrations**|Haoyu Xiong et.al.|[2506.15666](http://arxiv.org/abs/2506.15666)|null|
 |**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635](http://arxiv.org/abs/2506.15635)|null|
 |**2025-06-18**|**Learning Task-Agnostic Skill Bases to Uncover Motor Primitives in Animal Behaviors**|Jiyi Wang et.al.|[2506.15190](http://arxiv.org/abs/2506.15190)|null|
@@ -1128,6 +1146,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Robust control for multi-legged elongate robots in noisy environments**|Baxi Chong et.al.|[2506.15788](http://arxiv.org/abs/2506.15788)|null|
 |**2025-06-13**|**Hydrodynamics of chiral nematics in a channel and sudden contraction geometry**|Isreal Morawo et.al.|[2506.11933](http://arxiv.org/abs/2506.11933)|null|
 |**2025-06-13**|**Universal Scaling Laws for Deep Indentation Beyond the Hertzian Regime**|Tong Mu et.al.|[2506.11461](http://arxiv.org/abs/2506.11461)|null|
 |**2025-06-08**|**Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions**|Kun Zhang et.al.|[2506.11111](http://arxiv.org/abs/2506.11111)|null|
