@@ -9,6 +9,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
+|**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
+|**2025-06-24**|**Fake or Real, Can Robots Tell? Evaluating Embodied Vision-Language Models on Real and 3D-Printed Objects**|Federico Tavella et.al.|[2506.19579](http://arxiv.org/abs/2506.19579)|null|
+|**2025-06-24**|**T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models**|Yiteng Chen et.al.|[2506.19498](http://arxiv.org/abs/2506.19498)|null|
+|**2025-06-24**|**Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System**|Lixuan He et.al.|[2506.19433](http://arxiv.org/abs/2506.19433)|null|
+|**2025-06-24**|**Is an object-centric representation beneficial for robotic manipulation ?**|Alexandre Chapin et.al.|[2506.19408](http://arxiv.org/abs/2506.19408)|null|
+|**2025-06-24**|**Robotic Perception with a Large Tactile-Vision-Language Model for Physical Property Inference**|Zexiang Guo et.al.|[2506.19303](http://arxiv.org/abs/2506.19303)|null|
+|**2025-06-24**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
+|**2025-06-24**|**Robust Behavior Cloning Via Global Lipschitz Regularization**|Shili Wu et.al.|[2506.19250](http://arxiv.org/abs/2506.19250)|null|
+|**2025-06-23**|**CUPID: Curating Data your Robot Loves with Influence Functions**|Christopher Agia et.al.|[2506.19121](http://arxiv.org/abs/2506.19121)|null|
+|**2025-06-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Christoph Willibald et.al.|[2506.19077](http://arxiv.org/abs/2506.19077)|null|
+|**2025-06-23**|**FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation**|Siqi Shang et.al.|[2506.18960](http://arxiv.org/abs/2506.18960)|null|
 |**2025-06-23**|**RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base**|Kuanning Wang et.al.|[2506.18856](http://arxiv.org/abs/2506.18856)|null|
 |**2025-06-23**|**SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives**|Yizhou Chen et.al.|[2506.18825](http://arxiv.org/abs/2506.18825)|null|
 |**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Michalczyk et.al.|[2506.18580](http://arxiv.org/abs/2506.18580)|null|
