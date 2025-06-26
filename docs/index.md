@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -16,11 +16,11 @@ layout: default
 |**2025-06-24**|**Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System**|Lixuan He et.al.|[2506.19433](http://arxiv.org/abs/2506.19433)|null|
 |**2025-06-24**|**Is an object-centric representation beneficial for robotic manipulation ?**|Alexandre Chapin et.al.|[2506.19408](http://arxiv.org/abs/2506.19408)|null|
 |**2025-06-24**|**Robotic Perception with a Large Tactile-Vision-Language Model for Physical Property Inference**|Zexiang Guo et.al.|[2506.19303](http://arxiv.org/abs/2506.19303)|null|
-|**2025-06-24**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
+|**2025-06-25**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
 |**2025-06-24**|**Robust Behavior Cloning Via Global Lipschitz Regularization**|Shili Wu et.al.|[2506.19250](http://arxiv.org/abs/2506.19250)|null|
 |**2025-06-23**|**CUPID: Curating Data your Robot Loves with Influence Functions**|Christopher Agia et.al.|[2506.19121](http://arxiv.org/abs/2506.19121)|null|
 |**2025-06-23**|**Multimodal Anomaly Detection with a Mixture-of-Experts**|Christoph Willibald et.al.|[2506.19077](http://arxiv.org/abs/2506.19077)|null|
-|**2025-06-23**|**FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation**|Siqi Shang et.al.|[2506.18960](http://arxiv.org/abs/2506.18960)|null|
+|**2025-06-25**|**FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation**|Siqi Shang et.al.|[2506.18960](http://arxiv.org/abs/2506.18960)|null|
 |**2025-06-23**|**RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base**|Kuanning Wang et.al.|[2506.18856](http://arxiv.org/abs/2506.18856)|null|
 |**2025-06-23**|**SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives**|Yizhou Chen et.al.|[2506.18825](http://arxiv.org/abs/2506.18825)|null|
 |**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Michalczyk et.al.|[2506.18580](http://arxiv.org/abs/2506.18580)|null|
