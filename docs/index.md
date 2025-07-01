@@ -9,6 +9,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
+|**2025-06-30**|**Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning**|Fuhang Kuang et.al.|[2506.23944](http://arxiv.org/abs/2506.23944)|null|
+|**2025-06-30**|**World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation**|Haonan Chen et.al.|[2506.23919](http://arxiv.org/abs/2506.23919)|null|
+|**2025-06-30**|**Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning**|Anton Andreychuk et.al.|[2506.23793](http://arxiv.org/abs/2506.23793)|null|
+|**2025-06-30**|**PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?**|Atharva Gundawar et.al.|[2506.23725](http://arxiv.org/abs/2506.23725)|null|
+|**2025-06-29**|**ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation**|Suning Huang et.al.|[2506.23126](http://arxiv.org/abs/2506.23126)|null|
+|**2025-06-29**|**Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots**|Zhanxiang Cao et.al.|[2506.23125](http://arxiv.org/abs/2506.23125)|null|
+|**2025-06-28**|**SPICE-HL3: Single-Photon, Inertial, and Stereo Camera dataset for Exploration of High-Latitude Lunar Landscapes**|David Rodríguez-Martínez et.al.|[2506.22956](http://arxiv.org/abs/2506.22956)|null|
+|**2025-06-28**|**Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation**|André Schakkal et.al.|[2506.22827](http://arxiv.org/abs/2506.22827)|null|
+|**2025-06-28**|**SPI-BoTER: Error Compensation for Industrial Robots via Sparse Attention Masking and Hybrid Loss with Spatial-Physical Information**|Xuao Hou et.al.|[2506.22788](http://arxiv.org/abs/2506.22788)|null|
+|**2025-06-28**|**Learning Efficient Robotic Garment Manipulation with Standardization**|Changshi Zhou et.al.|[2506.22769](http://arxiv.org/abs/2506.22769)|null|
+|**2025-06-28**|**RoboPearls: Editable Video Simulation for Robot Manipulation**|Tao Tang et.al.|[2506.22756](http://arxiv.org/abs/2506.22756)|null|
 |**2025-06-27**|**Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation -- A Novel Mechatronics and Control Benchmark Platform**|Yuchen Li et.al.|[2506.22410](http://arxiv.org/abs/2506.22410)|null|
 |**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
 |**2025-06-26**|**Experimental investigation of pose informed reinforcement learning for skid-steered visual navigation**|Ameya Salvi et.al.|[2506.21732](http://arxiv.org/abs/2506.21732)|null|
