@@ -18,6 +18,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
+|**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
+|**2025-07-02**|**S3D: A Spatial Steerable Surgical Drilling Framework for Robotic Spinal Fixation Procedures**|Daniyal Maroufi et.al.|[2507.01779](http://arxiv.org/abs/2507.01779)|null|
+|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-01**|**Search-Based Robot Motion Planning With Distance-Based Adaptive Motion Primitives**|Benjamin Kraljusic et.al.|[2507.01198](http://arxiv.org/abs/2507.01198)|null|
+|**2025-07-01**|**Imitation Learning for Satellite Attitude Control under Unknown Perturbations**|Zhizhuo Zhang et.al.|[2507.01161](http://arxiv.org/abs/2507.01161)|null|
+|**2025-07-01**|**SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound**|Yunke Ao et.al.|[2507.01152](http://arxiv.org/abs/2507.01152)|null|
+|**2025-07-01**|**A Review on Sound Source Localization in Robotics: Focusing on Deep Learning Methods**|Reza Jalayer et.al.|[2507.01143](http://arxiv.org/abs/2507.01143)|null|
+|**2025-07-01**|**VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting**|Keiko Nagami et.al.|[2507.01125](http://arxiv.org/abs/2507.01125)|null|
+|**2025-07-01**|**Geometry-aware 4D Video Generation for Robot Manipulation**|Zeyi Liu et.al.|[2507.01099](http://arxiv.org/abs/2507.01099)|null|
+|**2025-07-01**|**VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers**|Yating Wang et.al.|[2507.01016](http://arxiv.org/abs/2507.01016)|null|
+|**2025-07-01**|**DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation**|Martin Peticco et.al.|[2507.01008](http://arxiv.org/abs/2507.01008)|null|
+|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990](http://arxiv.org/abs/2507.00990)|null|
+|**2025-07-01**|**HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning**|Zhi Jing et.al.|[2507.00833](http://arxiv.org/abs/2507.00833)|null|
+|**2025-07-01**|**Learning Steerable Imitation Controllers from Unstructured Animal Motions**|Dongho Kang et.al.|[2507.00677](http://arxiv.org/abs/2507.00677)|null|
+|**2025-07-01**|**Generation of Indoor Open Street Maps for Robot Navigation from CAD Files**|Jiajie Zhang et.al.|[2507.00552](http://arxiv.org/abs/2507.00552)|null|
+|**2025-07-01**|**RoboEval: Where Robotic Manipulation Meets Structured and Scalable Evaluation**|Yi Ru Wang et.al.|[2507.00435](http://arxiv.org/abs/2507.00435)|null|
+|**2025-07-01**|**Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding**|Tao Lin et.al.|[2507.00416](http://arxiv.org/abs/2507.00416)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
 |**2025-07-01**|**Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning**|Fuhang Kuang et.al.|[2506.23944](http://arxiv.org/abs/2506.23944)|null|
 |**2025-06-30**|**World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation**|Haonan Chen et.al.|[2506.23919](http://arxiv.org/abs/2506.23919)|null|
@@ -1228,6 +1247,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Mechanical Intelligence-Aware Curriculum Reinforcement Learning for Humanoids with Parallel Actuation**|Yusuke Tanaka et.al.|[2507.00273](http://arxiv.org/abs/2507.00273)|null|
 |**2025-06-18**|**Robust control for multi-legged elongate robots in noisy environments**|Baxi Chong et.al.|[2506.15788](http://arxiv.org/abs/2506.15788)|null|
 |**2025-06-13**|**Hydrodynamics of chiral nematics in a channel and sudden contraction geometry**|Isreal Morawo et.al.|[2506.11933](http://arxiv.org/abs/2506.11933)|null|
 |**2025-06-13**|**Universal Scaling Laws for Deep Indentation Beyond the Hertzian Regime**|Tong Mu et.al.|[2506.11461](http://arxiv.org/abs/2506.11461)|null|
