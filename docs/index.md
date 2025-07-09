@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -24,7 +24,7 @@ layout: default
 |**2025-07-05**|**Are Learning-Based Approaches Ready for Real-World Indoor Navigation? A Case for Imitation Learning**|Nigitha Selvaraj et.al.|[2507.04086](http://arxiv.org/abs/2507.04086)|null|
 |**2025-07-05**|**Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation**|Ziying Song et.al.|[2507.04049](http://arxiv.org/abs/2507.04049)|null|
 |**2025-07-05**|**Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation**|Ziyu Zhu et.al.|[2507.04047](http://arxiv.org/abs/2507.04047)|null|
-|**2025-07-05**|**RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot**|Liang Heng et.al.|[2507.03930](http://arxiv.org/abs/2507.03930)|null|
+|**2025-07-08**|**RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot**|Liang Heng et.al.|[2507.03930](http://arxiv.org/abs/2507.03930)|null|
 |**2025-07-05**|**DK-RRT: Deep Koopman RRT for Collision-Aware Motion Planning of Space Manipulators in Dynamic Debris Environments**|Qi Chen et.al.|[2507.03878](http://arxiv.org/abs/2507.03878)|null|
 |**2025-07-04**|**LTLCrit: A Temporal Logic-based LLM Critic for Safe and Efficient Embodied Agents**|Anand Gokhale et.al.|[2507.03293](http://arxiv.org/abs/2507.03293)|null|
 |**2025-07-04**|**Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting**|Ruoshi Wen et.al.|[2507.03227](http://arxiv.org/abs/2507.03227)|null|
