@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Wei Xu et.al.|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
+|**2025-07-09**|**Learning safe, constrained policies via imitation learning: Connection to Probabilistic Inference and a Naive Algorithm**|George Papadopoulos et.al.|[2507.06780](http://arxiv.org/abs/2507.06780)|null|
+|**2025-07-09**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Zhenyang Liu et.al.|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
+|**2025-07-09**|**Value from Observations: Towards Large-Scale Imitation Learning via Self-Improvement**|Michael Bloesch et.al.|[2507.06701](http://arxiv.org/abs/2507.06701)|null|
+|**2025-07-09**|**Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning**|Jinmin He et.al.|[2507.06628](http://arxiv.org/abs/2507.06628)|null|
+|**2025-07-09**|**Q-STAC: Q-Guided Stein Variational Model Predictive Actor-Critic**|Shizhe Cai et.al.|[2507.06625](http://arxiv.org/abs/2507.06625)|null|
+|**2025-07-09**|**Token Bottleneck: One Token to Remember Dynamics**|Taekyung Kim et.al.|[2507.06543](http://arxiv.org/abs/2507.06543)|null|
+|**2025-07-09**|**3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds**|Fan-Yun Sun et.al.|[2507.06484](http://arxiv.org/abs/2507.06484)|null|
+|**2025-07-08**|**Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction**|Matteo Tiezzi et.al.|[2507.06404](http://arxiv.org/abs/2507.06404)|null|
 |**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224](http://arxiv.org/abs/2507.06224)|null|
 |**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219](http://arxiv.org/abs/2507.06219)|null|
 |**2025-07-08**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Koki Yamane et.al.|[2507.06174](http://arxiv.org/abs/2507.06174)|null|
