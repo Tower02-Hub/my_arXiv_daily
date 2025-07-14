@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
+|**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yang Zhang et.al.|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
+|**2025-07-11**|**CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations**|Wenbo Cui et.al.|[2507.08262](http://arxiv.org/abs/2507.08262)|null|
+|**2025-07-10**|**Imitation Learning for Obstacle Avoidance Using End-to-End CNN-Based Sensor Fusion**|Lamiaa H. Zain et.al.|[2507.08112](http://arxiv.org/abs/2507.08112)|null|
 |**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
 |**2025-07-10**|**Reinforcement Learning with Action Chunking**|Qiyang Li et.al.|[2507.07969](http://arxiv.org/abs/2507.07969)|null|
 |**2025-07-10**|**Advancing Medical Image Segmentation via Self-supervised Instance-adaptive Prototype Learning**|Guoyan Liang et.al.|[2507.07602](http://arxiv.org/abs/2507.07602)|null|
