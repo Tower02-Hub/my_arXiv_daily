@@ -9,6 +9,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
+|**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
+|**2025-07-14**|**Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?**|Yumi Omori et.al.|[2507.10174](http://arxiv.org/abs/2507.10174)|null|
+|**2025-07-14**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158](http://arxiv.org/abs/2507.10158)|null|
+|**2025-07-14**|**Customize Harmonic Potential Fields via Hybrid Optimization over Homotopic Paths**|Shuaikang Wang et.al.|[2507.09858](http://arxiv.org/abs/2507.09858)|null|
+|**2025-07-14**|**AdvGrasp: Adversarial Attacks on Robotic Grasping from a Physical Perspective**|Xiaofei Wang et.al.|[2507.09857](http://arxiv.org/abs/2507.09857)|null|
+|**2025-07-13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|Ali Safa et.al.|[2507.09540](http://arxiv.org/abs/2507.09540)|null|
+|**2025-07-13**|**On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks**|Zainab Ali et.al.|[2507.09538](http://arxiv.org/abs/2507.09538)|null|
+|**2025-07-13**|**Self-supervised Pretraining for Integrated Prediction and Planning of Automated Vehicles**|Yangang Ren et.al.|[2507.09537](http://arxiv.org/abs/2507.09537)|null|
+|**2025-07-13**|**SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation**|Zhihan Kang et.al.|[2507.09459](http://arxiv.org/abs/2507.09459)|null|
+|**2025-07-12**|**DAA*: Deep Angular A Star for Image-based Path Planning**|Zhiwei Xu et.al.|[2507.09305](http://arxiv.org/abs/2507.09305)|null|
+|**2025-07-12**|**Learning and Transferring Better with Depth Information in Visual Reinforcement Learning**|Zichun Xu et.al.|[2507.09180](http://arxiv.org/abs/2507.09180)|null|
+|**2025-07-12**|**PRAG: Procedural Action Generator**|Michal Vavrecka et.al.|[2507.09167](http://arxiv.org/abs/2507.09167)|null|
+|**2025-07-12**|**Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization**|Jialei Huang et.al.|[2507.09160](http://arxiv.org/abs/2507.09160)|null|
+|**2025-07-12**|**Towards Human-level Dexterity via Robot Learning**|Gagan Khandate et.al.|[2507.09117](http://arxiv.org/abs/2507.09117)|null|
+|**2025-07-11**|**Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction**|Thomas T. Zhang et.al.|[2507.09061](http://arxiv.org/abs/2507.09061)|null|
+|**2025-07-11**|**Behavioral Exploration: Learning to Explore via In-Context Adaptation**|Andrew Wagenmaker et.al.|[2507.09041](http://arxiv.org/abs/2507.09041)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
 |**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yang Zhang et.al.|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
 |**2025-07-11**|**CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations**|Wenbo Cui et.al.|[2507.08262](http://arxiv.org/abs/2507.08262)|null|
@@ -1281,6 +1298,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Simulations and experiments with assemblies of fiber-reinforced soft actuators**|Seung Hyun Kim et.al.|[2507.10121](http://arxiv.org/abs/2507.10121)|null|
 |**2025-06-30**|**Mechanical Intelligence-Aware Curriculum Reinforcement Learning for Humanoids with Parallel Actuation**|Yusuke Tanaka et.al.|[2507.00273](http://arxiv.org/abs/2507.00273)|null|
 |**2025-06-18**|**Robust control for multi-legged elongate robots in noisy environments**|Baxi Chong et.al.|[2506.15788](http://arxiv.org/abs/2506.15788)|null|
 |**2025-06-13**|**Hydrodynamics of chiral nematics in a channel and sudden contraction geometry**|Isreal Morawo et.al.|[2506.11933](http://arxiv.org/abs/2506.11933)|null|
