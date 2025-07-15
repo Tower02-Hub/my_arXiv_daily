@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-07-09**|**Self-Wearing Adaptive Garments via Soft Robotic Unfurling**|Nam Gyun Kim et.al.|[2507.07221](http://arxiv.org/abs/2507.07221)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Wei Xu et.al.|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
 |**2025-07-09**|**Learning safe, constrained policies via imitation learning: Connection to Probabilistic Inference and a Naive Algorithm**|George Papadopoulos et.al.|[2507.06780](http://arxiv.org/abs/2507.06780)|null|
-|**2025-07-09**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Zhenyang Liu et.al.|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
+|**2025-07-13**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Zhenyang Liu et.al.|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
 |**2025-07-09**|**Value from Observations: Towards Large-Scale Imitation Learning via Self-Improvement**|Michael Bloesch et.al.|[2507.06701](http://arxiv.org/abs/2507.06701)|null|
 |**2025-07-09**|**Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning**|Jinmin He et.al.|[2507.06628](http://arxiv.org/abs/2507.06628)|null|
 |**2025-07-09**|**Q-STAC: Q-Guided Stein Variational Model Predictive Actor-Critic**|Shizhe Cai et.al.|[2507.06625](http://arxiv.org/abs/2507.06625)|null|
@@ -38,7 +38,7 @@
 |**2025-07-08**|**Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction**|Matteo Tiezzi et.al.|[2507.06404](http://arxiv.org/abs/2507.06404)|null|
 |**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224](http://arxiv.org/abs/2507.06224)|null|
 |**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219](http://arxiv.org/abs/2507.06219)|null|
-|**2025-07-08**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Koki Yamane et.al.|[2507.06174](http://arxiv.org/abs/2507.06174)|null|
+|**2025-07-14**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Koki Yamane et.al.|[2507.06174](http://arxiv.org/abs/2507.06174)|null|
 |**2025-07-08**|**Learning Agile Tensile Perching for Aerial Robots from Demonstrations**|Kangle Yuan et.al.|[2507.06172](http://arxiv.org/abs/2507.06172)|null|
 |**2025-07-08**|**SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles**|Jakub F. Kowalewski et.al.|[2507.06053](http://arxiv.org/abs/2507.06053)|null|
 |**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016](http://arxiv.org/abs/2507.06016)|null|
@@ -450,7 +450,7 @@
 |**2025-05-20**|**RoboCulture: A Robotics Platform for Automated Biological Experimentation**|Kevin Angers et.al.|[2505.14941](http://arxiv.org/abs/2505.14941)|null|
 |**2025-05-20**|**UPTor: Unified 3D Human Pose Dynamics and Trajectory Prediction for Human-Robot Interaction**|Nisarga Nilavadi et.al.|[2505.14866](http://arxiv.org/abs/2505.14866)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## DA & DG
 
@@ -620,7 +620,7 @@
 |**2025-05-20**|**Domain Adaptation of VLM for Soccer Video Understanding**|Tiancheng Jiang et.al.|[2505.13860](http://arxiv.org/abs/2505.13860)|null|
 |**2025-05-20**|**Domain Gating Ensemble Networks for AI-Generated Text Detection**|Arihant Tripathi et.al.|[2505.13855](http://arxiv.org/abs/2505.13855)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## VLM
 
@@ -985,7 +985,7 @@
 |**2025-05-21**|**Visual Perturbation and Adaptive Hard Negative Contrastive Learning for Compositional Reasoning in Vision-Language Models**|Xin Huang et.al.|[2505.15576](http://arxiv.org/abs/2505.15576)|**[link](https://github.com/nynu-bdai/ahnpl)**|
 |**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Prompt
 
@@ -1061,7 +1061,7 @@
 |**2025-04-24**|**Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation**|Guojia An et.al.|[2504.17427](http://arxiv.org/abs/2504.17427)|null|
 |**2025-04-24**|**SDVPT: Semantic-Driven Visual Prompt Tuning for Open-World Object Counting**|Yiming Zhao et.al.|[2504.17395](http://arxiv.org/abs/2504.17395)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Causal Learning
 
@@ -1182,7 +1182,7 @@
 |**2025-05-19**|**Quantum Algorithms for Causal Estimands**|Rishi Goel et.al.|[2505.12873](http://arxiv.org/abs/2505.12873)|null|
 |**2025-05-19**|**Double machine learning to estimate the effects of multiple treatments and their interactions**|Qingyan Xiang et.al.|[2505.12617](http://arxiv.org/abs/2505.12617)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Adversarial
 
@@ -1296,7 +1296,7 @@
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
 |**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Soft Robotics
 
@@ -1365,5 +1365,5 @@
 |**2022-02-09**|**Soft Robots Learn to Crawl: Jointly Optimizing Design and Control with Sim-to-Real Transfer**|Charles Schaff et.al.|[2202.04575](http://arxiv.org/abs/2202.04575)|null|
 |**2022-01-15**|**IBAC: An Intelligent Dynamic Bandwidth Channel Access Avoiding Outside Warning Range Problem**|Raja Karmakar et.al.|[2201.05727](http://arxiv.org/abs/2201.05727)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 

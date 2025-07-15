@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Robotics
@@ -20,7 +20,7 @@ layout: default
 |**2025-07-09**|**Self-Wearing Adaptive Garments via Soft Robotic Unfurling**|Nam Gyun Kim et.al.|[2507.07221](http://arxiv.org/abs/2507.07221)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Wei Xu et.al.|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
 |**2025-07-09**|**Learning safe, constrained policies via imitation learning: Connection to Probabilistic Inference and a Naive Algorithm**|George Papadopoulos et.al.|[2507.06780](http://arxiv.org/abs/2507.06780)|null|
-|**2025-07-09**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Zhenyang Liu et.al.|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
+|**2025-07-13**|**Spatial-Temporal Aware Visuomotor Diffusion Policy Learning**|Zhenyang Liu et.al.|[2507.06710](http://arxiv.org/abs/2507.06710)|null|
 |**2025-07-09**|**Value from Observations: Towards Large-Scale Imitation Learning via Self-Improvement**|Michael Bloesch et.al.|[2507.06701](http://arxiv.org/abs/2507.06701)|null|
 |**2025-07-09**|**Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning**|Jinmin He et.al.|[2507.06628](http://arxiv.org/abs/2507.06628)|null|
 |**2025-07-09**|**Q-STAC: Q-Guided Stein Variational Model Predictive Actor-Critic**|Shizhe Cai et.al.|[2507.06625](http://arxiv.org/abs/2507.06625)|null|
@@ -29,7 +29,7 @@ layout: default
 |**2025-07-08**|**Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction**|Matteo Tiezzi et.al.|[2507.06404](http://arxiv.org/abs/2507.06404)|null|
 |**2025-07-08**|**EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow**|Yixiang Chen et.al.|[2507.06224](http://arxiv.org/abs/2507.06224)|null|
 |**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219](http://arxiv.org/abs/2507.06219)|null|
-|**2025-07-08**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Koki Yamane et.al.|[2507.06174](http://arxiv.org/abs/2507.06174)|null|
+|**2025-07-14**|**Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model**|Koki Yamane et.al.|[2507.06174](http://arxiv.org/abs/2507.06174)|null|
 |**2025-07-08**|**Learning Agile Tensile Perching for Aerial Robots from Demonstrations**|Kangle Yuan et.al.|[2507.06172](http://arxiv.org/abs/2507.06172)|null|
 |**2025-07-08**|**SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles**|Jakub F. Kowalewski et.al.|[2507.06053](http://arxiv.org/abs/2507.06053)|null|
 |**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016](http://arxiv.org/abs/2507.06016)|null|
