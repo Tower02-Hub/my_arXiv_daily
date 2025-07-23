@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
+|**2025-07-22**|**Equivariant Goal Conditioned Contrastive Reinforcement Learning**|Arsh Tangri et.al.|[2507.16139](http://arxiv.org/abs/2507.16139)|null|
+|**2025-07-22**|**Benchmarking LLM Privacy Recognition for Social Robot Decision Making**|Dakota Sullivan et.al.|[2507.16124](http://arxiv.org/abs/2507.16124)|null|
+|**2025-07-21**|**Improved Semantic Segmentation from Ultra-Low-Resolution RGB Images Applied to Privacy-Preserving Object-Goal Navigation**|Xuying Huang et.al.|[2507.16034](http://arxiv.org/abs/2507.16034)|null|
 |**2025-07-21**|**Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers**|Ian Chuang et.al.|[2507.15833](http://arxiv.org/abs/2507.15833)|null|
 |**2025-07-21**|**Strong, Accurate, and Low-Cost Robot Manipulator**|Georges Chebly et.al.|[2507.15693](http://arxiv.org/abs/2507.15693)|null|
 |**2025-07-21**|**Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos**|Hao Luo et.al.|[2507.15597](http://arxiv.org/abs/2507.15597)|null|
