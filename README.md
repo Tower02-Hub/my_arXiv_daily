@@ -18,6 +18,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Chang Nie et.al.|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
+|**2025-07-23**|**Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning**|Joobin Jin et.al.|[2507.17418](http://arxiv.org/abs/2507.17418)|null|
+|**2025-07-23**|**Confidence Calibration in Vision-Language-Action Models**|Thomas P Zollo et.al.|[2507.17383](http://arxiv.org/abs/2507.17383)|null|
+|**2025-07-23**|**HuNavSim 2.0**|Miguel Escudero-Jiménez et.al.|[2507.17317](http://arxiv.org/abs/2507.17317)|null|
+|**2025-07-23**|**Confounded Causal Imitation Learning with Instrumental Variables**|Yan Zeng et.al.|[2507.17309](http://arxiv.org/abs/2507.17309)|null|
+|**2025-07-23**|**VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback**|Jianxin Bi et.al.|[2507.17294](http://arxiv.org/abs/2507.17294)|null|
+|**2025-07-23**|**Prolonging Tool Life: Learning Skillful Use of General-purpose Tools through Lifespan-guided Reinforcement Learning**|Po-Yen Wu et.al.|[2507.17275](http://arxiv.org/abs/2507.17275)|null|
+|**2025-07-23**|**PIG-Nav: Key Insights for Pretrained Image Goal Navigation Models**|Jiansong Wan et.al.|[2507.17220](http://arxiv.org/abs/2507.17220)|null|
+|**2025-07-23**|**Towards Human-level Intelligence via Human-like Whole-Body Manipulation**|Guang Gao et.al.|[2507.17141](http://arxiv.org/abs/2507.17141)|null|
+|**2025-07-22**|**Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots**|Pablo Valle et.al.|[2507.17049](http://arxiv.org/abs/2507.17049)|null|
+|**2025-07-19**|**Sensor-Space Based Robust Kinematic Control of Redundant Soft Manipulator by Learning**|Yinan Meng et.al.|[2507.16842](http://arxiv.org/abs/2507.16842)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**Equivariant Goal Conditioned Contrastive Reinforcement Learning**|Arsh Tangri et.al.|[2507.16139](http://arxiv.org/abs/2507.16139)|null|
 |**2025-07-22**|**Benchmarking LLM Privacy Recognition for Social Robot Decision Making**|Dakota Sullivan et.al.|[2507.16124](http://arxiv.org/abs/2507.16124)|null|
